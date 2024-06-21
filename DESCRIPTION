@@ -3,7 +3,7 @@ Title: MiRIx Database
 Version: 0.0.1.0
 Author: Vincent Tu <tuv@email.chop.edu>
 Maintainer: Vincent Tu <tuv@email.chop.edu>
-Description: Taxon phenotype and susceptibility databases for the mirix package
+Description: Taxon phenotype and susceptibility databases for the mirix package.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true

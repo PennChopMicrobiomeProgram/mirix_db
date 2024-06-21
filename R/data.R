@@ -11,8 +11,6 @@
 #'     "Gram-negative".}
 #'   \item{doi}{DOI of the publication from which the information was obtained.}
 #' }
-#' 
-#' @export
 "taxon_phenotypes"
 
 #' Antibiotic susceptibility of bacterial taxa
@@ -26,6 +24,4 @@
 #'     or "resistant".}
 #'   \item{doi}{DOI of the publication from which the information was obtained.}
 #' }
-#' 
-#' @export
 "taxon_susceptibility"
