@@ -1,5 +1,5 @@
 
-# mirix_db
+# mirixdb
 
 <!-- badges: start -->
   [![R-CMD-check](https://github.com/PennChopMicrobiomeProgram/mirix_db/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/PennChopMicrobiomeProgram/mirix_db/actions/workflows/R-CMD-check.yaml)
