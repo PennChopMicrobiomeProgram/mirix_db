@@ -69,6 +69,8 @@ what_phenotype <- function (lineage,
 #' @param lineage A vector of taxonomic assignments or lineages
 #' @param db A data frame with columns named "taxon", "rank", and "value"
 #' @return A vector of assigned values
+#' 
+#' @export
 match_annotation <- function (lineage, db) {
   get_rank_specific_db <- function (r) {
     rank_is_r <- db[["rank"]] %in% r
