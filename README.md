@@ -38,6 +38,5 @@ To get a particular lineage's phenotypes:
 ``` r
 what_phenotype(
    c("Bacteroidetes", "Firmicutes", "Firmicutes; Negativicutes"),
-   "gram_stain",
-   c("Gram-positive" = "susceptible", "Gram-negative" = "resistant"))
+   "gram_stain")
 ```
